@@ -1,0 +1,15 @@
+{
+    "name": "agust/klop",
+    "description": "Rest api send mail for klop",
+    "type": "project",
+    "require": {
+        "league/oauth2-server": "^6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "agus triadji",
+            "email": "agusmemons90@gmail.com"
+        }
+    ]
+}
